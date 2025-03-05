@@ -1,0 +1,15 @@
+.idea/
+.DS_Store
+
+.venv/
+.work/
+
+/cache/*
+!/cache/README.md
+/inputs/*
+!/inputs/README.md
+
+compare-results/
+local/
+xemu-golden-results/
+wiki/
